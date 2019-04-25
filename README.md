@@ -1,6 +1,6 @@
 # Event Planner
 
-This is a small gatsby.js app used to visualize events.  Each horizontal "lane" represents an "event team," and the number of horizontal lanes at a given time represents the number of teams that are a working.
+This is a small gatsby.js app used to visualize events.  Each horizontal "lane" represents an "event team," and the number of horizontal lanes at a given time represents the number of teams that are a working. 
 
 This project had two main challenges:
 
